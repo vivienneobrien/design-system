@@ -2,6 +2,7 @@
 # Design Systems With Storybook Practice
 
 ## Exploring why storybook is an amazing tool for testing, development and documentation.
+Allows a developer to test components in isolation. Allows a developer to ensure components are working as expected.
 
 # Getting Started with Create React App
 
